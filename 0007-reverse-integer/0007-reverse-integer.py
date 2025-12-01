@@ -1,13 +1,20 @@
 class Solution:
     def reverse(self, x: int) -> int:
 
-        s= abs(x)
-        sList = list(str(s))[::-1]
-        result = 0
-        for i in sList:
-            result =(result *10)+int(i)
-        if x <0:
-            result*=-1
-        if result <(-2**31) or result > (2**31)-1:
+        a = str(abs(x))
+
+        if x<0:
+            b= '-'
+        else:
+            b=''
+
+        for i in range(len(a)-1,-1,-1):
+            b+=a[i]
+            
+        if int(b) > 2**31-1:
             return 0
-        return result
+        elif int(b) < (-2)**31:
+            return 0
+        else:
+            return int(b)
+        
