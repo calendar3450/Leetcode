@@ -1,34 +1,33 @@
-import collections
+from collections import deque
+
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        m = len(grid)
-        n = len(grid[0])
-        time = 0
+        m, n = len(grid), len(grid[0])
+        queue = deque()
         fresh = 0
-        rotten_dir = deque()
 
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 2:
-                    rotten_dir.append([i,j])
+                    queue.append((i,j))
 
                 elif grid[i][j] == 1:
                     fresh +=1
 
-        direction =[(1,0),(0,1),(-1,0),(0,-1)]
+        time = 0 
+        
+        directions = [(1,0),(-1,0),(0,1),(0,-1)]
 
-        while rotten_dir and fresh >0:
-            for _ in range(len(rotten_dir)):
-                i,j=rotten_dir.popleft()
-                for di,dj in direction:
-                    ni , nj = di+i,dj+j
-                    if 0<=ni< m and 0<=nj < n and grid[ni][nj] ==1:
+        while queue and fresh >0:
+            for _ in range(len(queue)):
+                i,j = queue.popleft()
+                for di, dj in directions:
+                    ni,nj = i + di, j + dj
+
+                    if 0<= ni < m and 0 <= nj < n and grid[ni][nj] ==1:
                         grid[ni][nj] =2
                         fresh -=1
-                        rotten_dir.append((ni,nj))
+                        queue.append((ni,nj))
             time +=1
 
         return time if fresh == 0 else -1
-        
-
-            
