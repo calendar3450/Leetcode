@@ -1,27 +1,19 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        if len(nums) == 1:
-            return [nums]
-
         result = []
-
-        def backtracking(sublist):
-            if sublist in result:
+        n = len(nums)
+        
+        def backtracking(cur):
+            if len(cur) == n:
+                result.append(cur.copy())
                 return
-
-            if len(sublist)==len(nums):
-                result.append(sublist.copy())
-                return
-
-            for i in nums:
-                if i not in sublist:
-                    sublist.append(i)
-                    backtracking(sublist)
-                    sublist.pop()
-
-        for j in nums:
-            sublist=[j]
-            backtracking(sublist)
-
-        return result                    
             
+            for i in nums:
+                if i not in cur:
+                    cur.append(i)
+                    backtracking(cur)
+                    cur.pop()
+
+        backtracking([])
+
+        return result
