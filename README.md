@@ -11,4 +11,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/calendar3450/Leetcode/tree/master/0061-rotate-list) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/calendar3450/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/calendar3450/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/calendar3450/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
