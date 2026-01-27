@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/calendar3450/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/calendar3450/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/calendar3450/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/calendar3450/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/calendar3450/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +49,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/calendar3450/Leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
