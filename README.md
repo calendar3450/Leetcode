@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/calendar3450/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/calendar3450/Leetcode/tree/master/0091-decode-ways) |
 ## Memoization
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/calendar3450/Leetcode/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
 | ------- |
