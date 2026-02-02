@@ -65,13 +65,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/calendar3450/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/calendar3450/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/calendar3450/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/calendar3450/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
