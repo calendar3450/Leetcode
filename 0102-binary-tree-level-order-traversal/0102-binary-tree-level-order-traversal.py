@@ -7,21 +7,27 @@ from collections import deque
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
+            return []
+            
         answer = []
+        queue = deque([root])
 
-        def DFS(node, level):
-            if not node:
-                return
+        while queue:
+            level = len(queue)
+            levelValue = []
 
-            if len(answer) < level+1:
-                answer.append([node.val])
-            else:
-                answer[level].append(node.val)
+            for _ in range(level):
+                node = queue.popleft()
+                levelValue.append(node.val)
 
-            DFS(node.left,level+1)
-            DFS(node.right,level+1)
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+
+            answer.append(levelValue)
         
-        DFS(root,0)
 
         return answer
 
