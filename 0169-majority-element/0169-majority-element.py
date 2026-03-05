@@ -1,13 +1,14 @@
+from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        nums_list = list(set(nums))
-        max = 0
-        result = 0
-        if len(nums_list) == 1:
-            return nums_list[0]
-        for i in nums_list:
-            if nums.count(i) >max:
-                max = nums.count(i)
-                result = i
+        nums_set = Counter(nums)
+        ans = 0
+        ans_cnt = 0
 
-        return result
+        for i in nums_set:
+            if ans_cnt < nums_set[i]:
+                ans = i
+                ans_cnt = nums_set[i]
+        
+
+        return ans
