@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/calendar3450/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/calendar3450/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -119,10 +122,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -147,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
