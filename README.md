@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/calendar3450/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/calendar3450/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/calendar3450/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/calendar3450/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/calendar3450/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/calendar3450/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/calendar3450/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/calendar3450/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/calendar3450/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/calendar3450/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/calendar3450/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -133,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
