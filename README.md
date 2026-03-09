@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/calendar3450/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/calendar3450/Leetcode/tree/master/0091-decode-ways) |
+| [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -163,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/calendar3450/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/calendar3450/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
