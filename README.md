@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/calendar3450/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/calendar3450/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/calendar3450/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/calendar3450/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/calendar3450/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -72,11 +75,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/calendar3450/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/calendar3450/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/calendar3450/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/calendar3450/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
