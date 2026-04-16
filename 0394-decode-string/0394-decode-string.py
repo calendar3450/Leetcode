@@ -7,7 +7,7 @@ class Solution:
 
         for i in s:
             if i.isdigit():
-                cur_num += cur_num * 10 + int(i)
+                cur_num = cur_num * 10 + int(i)
             
             elif i == '[':
                 num.append(cur_num)
@@ -18,7 +18,7 @@ class Solution:
             elif i == ']':
                 n = num.pop()
                 s = strings.pop()
-                st = s + st*n
+                st = s + st * n
 
             else:
                 st += i
