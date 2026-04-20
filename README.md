@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/calendar3450/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/calendar3450/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/calendar3450/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +234,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/calendar3450/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/calendar3450/Leetcode/tree/main/0394-decode-string/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
