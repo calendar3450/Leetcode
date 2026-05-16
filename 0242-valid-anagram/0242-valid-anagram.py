@@ -5,7 +5,7 @@ class Solution:
 
         s_list.sort()
         t_list.sort()
-
+        
         if s_list == t_list:
             return True
         else:
