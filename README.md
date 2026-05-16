@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/calendar3450/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/calendar3450/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/calendar3450/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/calendar3450/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,10 +176,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/calendar3450/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/calendar3450/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/calendar3450/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/calendar3450/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/calendar3450/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/calendar3450/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
