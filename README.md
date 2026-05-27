@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/calendar3450/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/calendar3450/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/calendar3450/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/calendar3450/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/calendar3450/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/calendar3450/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/calendar3450/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/calendar3450/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/calendar3450/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/calendar3450/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/calendar3450/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
