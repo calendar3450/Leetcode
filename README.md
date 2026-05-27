@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/calendar3450/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/calendar3450/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/calendar3450/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/calendar3450/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/calendar3450/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Math
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/calendar3450/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/calendar3450/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/calendar3450/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/calendar3450/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/calendar3450/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0377-combination-sum-iv](https://github.com/calendar3450/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
