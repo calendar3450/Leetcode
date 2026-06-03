@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/calendar3450/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/calendar3450/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/calendar3450/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/calendar3450/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/calendar3450/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/calendar3450/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/calendar3450/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/calendar3450/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/calendar3450/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/calendar3450/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/calendar3450/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/calendar3450/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
