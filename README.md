@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/calendar3450/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/calendar3450/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0994-rotting-oranges](https://github.com/calendar3450/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/calendar3450/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/calendar3450/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0994-rotting-oranges](https://github.com/calendar3450/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/calendar3450/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/calendar3450/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/calendar3450/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0994-rotting-oranges](https://github.com/calendar3450/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
