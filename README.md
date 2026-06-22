@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/calendar3450/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/calendar3450/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/calendar3450/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/calendar3450/Leetcode/tree/main/0202-happy-number/) | Easy |
