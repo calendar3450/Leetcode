@@ -1,18 +1,25 @@
 class Solution:
-    def rob(self, nums: List[int]) -> int:
+    def rob(self, nums: list[int]) -> int:
         n = len(nums)
+        if n == 1:
+            return nums[0]
 
-        if n < 3:
-            return max(nums)
+        one_before = 0
+        two_before = 0
 
-        dp = [0] *(n + 1)
-        dp[0] = nums[0]
-        dp[1] = nums[1]
-        dp[2] = nums[0] + nums[2]
+        for num in nums:
+            cur_val = max(one_before, two_before + num)
+            one_before,two_before = cur_val, one_before
 
-        for i in range(3,n):
-            dp[i] = max(nums[i] + dp[i-3],dp[i-2]+nums[i])
+        result_fir = one_before
 
+        one_before = 0
+        two_before = 0
 
-        return max(dp[n-1],dp[n-2])
-        
+        for num in nums[1:]:
+            cur_val = max(one_before, two_before + num)
+            one_before,two_before = cur_val, one_before
+
+        result_sec = one_before
+
+        return max(result_fir,result_sec)
