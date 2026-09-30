@@ -10,8 +10,9 @@ class Solution:
             if not node:
                 return
 
-            node.left,node.right = invert(node.right),invert(node.left)
+            node.left, node.right = invert(node.right),invert(node.left)
             return node
 
         inverted = invert(root)
         return inverted
+        
