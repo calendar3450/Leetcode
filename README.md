@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/calendar3450/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/calendar3450/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/calendar3450/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/calendar3450/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/calendar3450/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/calendar3450/Leetcode/tree/main/0139-word-break/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/calendar3450/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/calendar3450/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/calendar3450/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/calendar3450/Leetcode/tree/main/0224-basic-calculator/) | Hard |
@@ -349,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/calendar3450/Leetcode/tree/main/0139-word-break/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/calendar3450/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
