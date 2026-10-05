@@ -1,21 +1,22 @@
 class Solution:
-    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        result = []
+    def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
+        answer = []
         n = len(candidates)
 
-        def backtracking(start,current):
-            if sum(current) == target:
-                result.append(current[:])
+        def backtracking(cand,start):
+            
+            if sum(cand) == target:
+                answer.append(cand.copy())
                 return
-            elif sum(current) >= target:
+            elif sum(cand) > target:
                 return
-
+            
             for i in range(start,n):
-                current.append(candidates[i])
-                backtracking(i,current)
-                current.pop()
-
-        backtracking(0,[])
-
-
-        return result
+                cand.append(candidates[i])
+                backtracking(cand,i)
+                cand.pop()
+            
+        
+        backtracking([],0)
+        
+        return answer
