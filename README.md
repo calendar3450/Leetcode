@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/calendar3450/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/calendar3450/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0377-combination-sum-iv](https://github.com/calendar3450/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0498-diagonal-traverse](https://github.com/calendar3450/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0621-task-scheduler](https://github.com/calendar3450/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/calendar3450/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/calendar3450/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/calendar3450/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0498-diagonal-traverse](https://github.com/calendar3450/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/calendar3450/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/calendar3450/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/calendar3450/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0498-diagonal-traverse](https://github.com/calendar3450/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0844-backspace-string-compare](https://github.com/calendar3450/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
