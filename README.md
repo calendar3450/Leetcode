@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/calendar3450/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/calendar3450/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/calendar3450/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3446-sort-matrix-by-diagonals](https://github.com/calendar3450/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/calendar3450/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/calendar3450/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/calendar3450/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [3446-sort-matrix-by-diagonals](https://github.com/calendar3450/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/calendar3450/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/calendar3450/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/calendar3450/Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [3446-sort-matrix-by-diagonals](https://github.com/calendar3450/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
