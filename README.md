@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/calendar3450/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/calendar3450/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/calendar3450/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/calendar3450/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/calendar3450/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/calendar3450/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/calendar3450/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/calendar3450/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/calendar3450/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/calendar3450/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/calendar3450/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/calendar3450/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0224-basic-calculator](https://github.com/calendar3450/Leetcode/tree/main/0224-basic-calculator/) | Hard |
